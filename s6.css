@@ -18,12 +18,7 @@ p::first-letter {
     font-size: 120%;
     color: blueviolet;
     text-decoration-line: underline;
-    }
-    .letter1{
-        color: black;
-        text-decoration-line: underline;
-        font-size: 120%;
-    }
+}
 p::first-line {
 color: black;
 }
@@ -31,4 +26,7 @@ h2,h3,h4
 {
     color: crimson;
     text-decoration-line: underline;
+}
+h4::first-letter{
+    color: darkmagenta;
 }

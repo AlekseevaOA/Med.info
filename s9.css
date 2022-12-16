@@ -30,14 +30,14 @@ h2,h3,h4
     color: crimson;
     text-decoration-line: underline;
 }
-p::first-letter {
-    color: darkblue;
+h4::first-letter {
+    color: darkmagenta;
 }
 .myimage-div
 {
     display: none;
 }
-a.myimage-ssilka:hover+div
+a.myimage-ssilka:hover+.myimage-div
 {
     display: block;
 }
