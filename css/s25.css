@@ -1,0 +1,33 @@
+body{
+    background-color: white;
+    color: black;
+    margin: 5px;
+    padding: 2px;
+    font-family: 'Times New Roman', Times, serif;
+}
+header,
+footer{
+    text-align: center;
+    background-color: lightblue;
+}
+p {
+    text-align: justify;
+    text-indent: 8ch;
+}
+h1{
+    color: black;
+    font-size: 400%;
+}
+h2{
+    color: black;
+    font-size: 300%;
+}
+h3,h4
+{
+    color: black;
+    font-size: 200%;
+}
+.letter1{
+    color: black;
+    text-decoration-line: underline;
+}
